@@ -1,5 +1,5 @@
 ## About Me<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Karla&size=32&pause=400&color=29B5F7&random=false&width=435&lines=Thanks+for+being+here!%F0%9F%A4%97;I'm+Amanin.;Nice+to+meet+YOU!%F0%9F%98%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Karla&size=32&pause=400&color=F7F7F7&random=false&width=435&lines=Thanks+for+being+here!%F0%9F%A4%97;I'm+Amanin.;Nice+to+meet+YOU!%F0%9F%98%99)](https://git.io/typing-svg)
 
 Hello! My name is あまにん。/ (Amanin)
 
