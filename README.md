@@ -42,7 +42,7 @@ I'm a freshman delving into the realms of Programing, Web Design, server archite
 
 ### PC specs
 **Main PC**<br>
-CPU: Intel i7-14700F<br>
+CPU: Intel i7-14700KF<br>
 GPU: NVIDIA RTX2080<br>
 Mems: Paliot 16GB x2
 
