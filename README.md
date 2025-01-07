@@ -47,6 +47,16 @@ GPU: NVIDIA RTX2080<br>
 Mems: Paliot 16GB x2
 
 **Servers**
+- **HPE Proliant DL325 Gen10**<br>
+CPU: AMD EPYC 7251<br>
+Mems: 128GB<br>
+OS: VMware ESXi<br>
+
+- **HPE StoreEasy 1460**<br>
+CPU: Xeon Bronze 3104<br>
+Mems: 8GB<br>
+OS: VMware ESXi<br>
+
 - **HPE Proliant DL360e Gen8**<br>
 CPU: Xeon E5-2630v2 x2<br>
 Mems: 16GB<br>
