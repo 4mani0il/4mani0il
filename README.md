@@ -3,7 +3,7 @@
 
 Hello! My name is あまにん。/ (Amanin)
 
-I'm a freshman delving into the realms of Programing, Web Design, server architecture, and more.
+I'm a sophomore delving into the realms of Programing, Web Design, server architecture, and more.
 
 ## Contact<br>
 
