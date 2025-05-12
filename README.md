@@ -38,7 +38,6 @@ I'm a sophomore delving into the realms of Programing, Web Design, server archit
 ![](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
 ![](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
 ![](https://img.shields.io/badge/-RedHat-EE0000.svg?logo=red-hat&style=flat)
-![](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
 
 ### PC specs
 **Main PC**<br>
